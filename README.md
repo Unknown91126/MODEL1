@@ -85,4 +85,7 @@ To get started:
 
 1. Clone the repo:
    ```bash
-   [https://github.com/Unknown91126/MODEL1.git]
+   (https://github.com/Unknown91126/MODEL1.git)
+2.run the model.py file:
+  '''bash
+  [python model.py]
