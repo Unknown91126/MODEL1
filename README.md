@@ -87,5 +87,5 @@ To get started:
    ```bash
    (https://github.com/Unknown91126/MODEL1.git)
 2.run the model.py file:
-  '''bash
+  ```bash
   [python model.py]
