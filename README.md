@@ -85,5 +85,4 @@ To get started:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/model1.git
-   cd credit-card-fraud-detection
+   [https://github.com/Unknown91126/MODEL1.git]
